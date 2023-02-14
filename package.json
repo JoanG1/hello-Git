@@ -1,0 +1,15 @@
+{
+  "name": "hellogit",
+  "version": "1.0.0",
+  "description": "HelloWorld Example for the use git and github",
+  "main": "helloGit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon helloGit.js"
+  },
+  "author": "JoanGomez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
